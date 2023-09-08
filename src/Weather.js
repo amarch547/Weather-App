@@ -6,9 +6,9 @@ import './style.css'
 const Weather = () => {
 
   const [data, setData] = useState({
-    celcius: 27,
+    celcius: 37,
     name: 'Lucknow',
-    humidity: 92,
+    humidity: 50,
     speed: 2
   })
 
